@@ -1,6 +1,10 @@
 a {
   text-decoration: none;
 }
+.header {
+  margin-bottom: 10px;
+}
 .header a {
   margin-right: 10px;
+  font-size: 20px;
 }
